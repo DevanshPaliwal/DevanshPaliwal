@@ -9,9 +9,10 @@
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshpaliwal&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff&locale=en" alt="devanshpaliwal" /></p>
+![DevanshPaliwal's Stats](https://github-readme-stats.vercel.app/api?username=DevanshPaliwal&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
-![DevanshPaliwal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshPaliwal&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![DevanshPaliwal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevanshPaliwal&theme=midnight-purple&hide_border=true)
+![DevanshPaliwal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshPaliwal&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
