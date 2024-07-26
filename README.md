@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devansh</h1>
+<h1 align="center">Hi :grin:, I'm Devansh</h1>
 <h3 align="center">A passionate App Developer and a Programming Enthusiast.</h3>
 
 
