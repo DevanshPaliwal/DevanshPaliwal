@@ -17,5 +17,5 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/devansh-paliwal-607785246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devansh-paliwal-607785246" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devanshpaliwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devansh-paliwal" height="30" width="40" /></a>
 </p>
